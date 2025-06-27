@@ -1,0 +1,26 @@
+.bgMobile{
+    background-image: url(./assets/bg-sidebar-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.stepsButton{
+    height: 35px;
+    width: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+h1{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(38, 38, 88);
+}
+h4{
+    color: gray;
+}
+label{
+    color: rgb(53, 53, 80);
+    font-weight: 600;
+}
