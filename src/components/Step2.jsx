@@ -1,10 +1,8 @@
 
-
-
 const payment = [
   {
     id: "Arcade",
-    image: "./src/assets/icon-arcade.svg",
+    image: "../public/icon-arcade.svg",
     monthly: "$9/mo",
     Yearly: {
       yr: "$90/yr",
@@ -13,7 +11,7 @@ const payment = [
   },
   {
     id: "Advanced",
-    image: "./src/assets/icon-advanced.svg",
+    image: "../public/icon-advanced.svg",
     monthly: "$12/mo",
     Yearly: {
       yr: "$120/yr",
@@ -22,7 +20,7 @@ const payment = [
   },
   {
     id: "Pro",
-    image: "./src/assets/icon-pro.svg",
+    image: "../public/icon-pro.svg",
     monthly: "$15/mo",
     Yearly: {
       yr: "$150/yr",
